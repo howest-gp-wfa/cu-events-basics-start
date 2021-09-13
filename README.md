@@ -1,2 +1,2 @@
-# cu-events-basics
-Course piece on chapter Basic Events
+# cu-events-basics-start
+Start for course piece on chapter Basic Events
